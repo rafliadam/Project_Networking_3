@@ -9,9 +9,9 @@ Sebagai bagian dari proyek jaringan, untuk merancang dan mengimplementasikan jar
 Harus ada tiga router yang menghubungkan setiap lantai (semuanya ditempatkan di ruang server di departemen TI).
 Semua router harus terhubung satu sama lain menggunakan kabel serial DCE.
 
-Setiap 3 router terkoneksi beberapa lantai (semuanya di tempatkan di ruang server di departemen IT)
-Jaringan antara router harus 10.10.10.0/30, 20.20.20.0/30 dan 30.30.30.0/30.
-Setiap lantai diharapkan memiliki satu sakelar (ditempatkan di lantai masing-masing).
-Setiap lantai diharapkan memiliki jaringan WIFI yang terhubung ke laptop dan ponsel, dan tablet PC.
-Setiap departemen diharapkan memiliki printer.
-Setiap departemen diharapkan berada di VLAN yang berbeda dengan rincian sebagai berikut;
+- Setiap 3 router terkoneksi beberapa lantai (semuanya di tempatkan di ruang server di departemen IT)
+- Jaringan antara router harus 10.10.10.0/30, 20.20.20.0/30 dan 30.30.30.0/30.
+- Setiap lantai diharapkan memiliki satu sakelar (ditempatkan di lantai masing-masing).
+- Setiap lantai diharapkan memiliki jaringan WIFI yang terhubung ke laptop dan ponsel, dan tablet PC.
+- Setiap departemen diharapkan memiliki printer.
+- Setiap departemen diharapkan berada di VLAN yang berbeda dengan rincian sebagai berikut;
